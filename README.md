@@ -2,6 +2,8 @@
 
 Olá, seja bem vindo! Meu nome é Ygor, e estou em busca de ser um desenvolvedor. Apaixonado por tecnologia e videogames 🎮.
 
+Futuro Analista e Desenvolvimento de Sistemas.
+
 ### Conecte-se comigo: 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:ygormcs@icloud.com)
