@@ -2,7 +2,7 @@
 
 Olá, seja bem vindo! Meu nome é Ygor, e estou em busca de ser um desenvolvedor. Apaixonado por tecnologia e videogames 🎮.
 
-Futuro Analista e Desenvolvimento de Sistemas.
+Futuro Analista e Desenvolvedor de Sistemas.
 
 ### Conecte-se comigo: 
 
